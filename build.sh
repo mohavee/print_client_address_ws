@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TAG="0.0.2"
+TAG="0.0.3"
 
 IMAGE_NAME="mohave/print_client_address_ws"
 
